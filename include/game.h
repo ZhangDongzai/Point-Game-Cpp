@@ -1,4 +1,4 @@
-/** file: include/game.h
+/** file: include/game.h\n
  * 头文件，负责游戏启动、退出
  */
 
