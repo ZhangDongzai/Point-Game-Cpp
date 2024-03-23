@@ -16,7 +16,7 @@ typedef struct {
 } Color;
 
 // 颜色
-Color BLACK = {0, 0, 0, SDL_ALPHA_OPAQUE};
-Color WHITE = {255, 255, 255, SDL_ALPHA_OPAQUE};
+const Color BLACK = {0, 0, 0, SDL_ALPHA_OPAQUE};
+const Color WHITE = {255, 255, 255, SDL_ALPHA_OPAQUE};
 
 # endif //POINT_GAME_CPP_COLOR_H

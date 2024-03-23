@@ -7,7 +7,8 @@ add_executable(Point_Game_Cpp
         src/main.cpp
         include/setting.h
         include/game.h
-        include/color.h)
+        include/color.h
+        src/game.cpp)
 
 target_link_libraries(Point_Game_Cpp
         SDL2main
